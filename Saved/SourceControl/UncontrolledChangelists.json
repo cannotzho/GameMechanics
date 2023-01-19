@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/BPC_Inventory.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/WB_InGameMenu.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/BP_FirstPersonCharacterCustom.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/BP_Item.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/BPI_Pickable.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/IA_PickUp.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/IMC_mode1.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/IA_Menu.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/Developers/Kenz/Collections/WB_ItemSlot.uasset",
+				"C:/Users/altek/OneDrive/Documents/GitHub/GameMechanics/GameMechanics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/CK/3MQLL5JLCED90OQOF2U2CH.uasset"
 			]
 		}
 	]
